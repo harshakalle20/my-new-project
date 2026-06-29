@@ -1,8 +1,5 @@
 # my-new-project
 To build AI project
-# Smart Weather Prediction System
-
-Final project for the Building AI course
 
 ## Summary
 
